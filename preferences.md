@@ -10,5 +10,5 @@ Sempre que o usuário disser **"lembre-se disso"**, adicione a instrução menci
 - Comunique-se sempre em português do Brasil.
 - Sempre trabalhe na branch homolog dos projetos, nunca na main/master.
 - Ao trabalhar com Kotlin, Java, Angular, Docker e Asterisk, sempre usar o **Context7 MCP** para garantir práticas e APIs mais atualizadas.
-
+- Ao rodar os testes, use o `test.sh` (se existir), pois ele carrega as variáveis de ambiente necessárias.
 
